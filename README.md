@@ -10,7 +10,7 @@ I enjoy working on projects that combine functionality and user experience, from
 
 * 🌍  I'm based in Metro Manila
 * ✉️  You can contact me at [justinerhey021@gmail.com](mailto:justinerhey021@gmail.com)
-* 🧠  I'm currently learning Python, Laravel
+* 🧠  I'm currently learning Python, Laravel, and Android Studio
 * 👥  I'm looking to collaborate on Project
 
 <p align="left">
